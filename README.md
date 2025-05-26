@@ -4,5 +4,4 @@
 - meu g-mail @michel.kurkievicz.oliveira@escola.pr.gov.br 
 - estou cursando 1DS👻
 
-![AwkwardAwkwardSilenceGIF](https://github.com/user-attachments/assets/96698552-7648-4892-8467-225144185e60)
-
+![AwkwardAwkwardSilenceGIF](https://github.com/user-attachments/assets/7e849ce9-262a-4866-bc2a-a09810658fec)
