@@ -1,8 +1,22 @@
+<div align="center">
 
+ # 🤟 Salve, eu sou o Michel
+ 
+👑 Diferenciado & Confiante
 
-<div>Olá, eu sou o Michel
-- meu g-mail @michel.kurkievicz.oliveira@escola.pr.gov.br 
-- estou cursando 2DS
+Não escrevo apenas código — construo soluções.
+💻 Dev focado em resultado
+🔥 Disciplina > Motivação
+🚀 Em busca do próximo nível
 
- <a href="https://img.shields.io/michel.zn"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ ---
+
+ ### 🛠️ Tecnologias que estou estudando
+ 
 </div>
+
+
+
+
+
+
